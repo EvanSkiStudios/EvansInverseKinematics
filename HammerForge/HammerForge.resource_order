@@ -1,8 +1,14 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Utility","order":7,"path":"folders/Utility.yy",},
+    {"name":"============","order":6,"path":"folders/============.yy",},
+    {"name":"Demo","order":8,"path":"folders/Demo.yy",},
+    {"name":"ForwardKinematics","order":4,"path":"folders/ForwardKinematics.yy",},
+    {"name":"InverseKinematics","order":5,"path":"folders/InverseKinematics.yy",},
+  ],
   "ResourceOrderSettings": [
-    {"name":"InverseKinematics","order":2,"path":"scripts/InverseKinematics/InverseKinematics.yy",},
-    {"name":"obj_IKmatic_ctrl","order":3,"path":"objects/obj_IKmatic_ctrl/obj_IKmatic_ctrl.yy",},
-    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"InverseKinematics","order":1,"path":"scripts/InverseKinematics/InverseKinematics.yy",},
+    {"name":"ForwardKinematics","order":1,"path":"scripts/ForwardKinematics/ForwardKinematics.yy",},
+    {"name":"samspade_map","order":1,"path":"scripts/samspade_map/samspade_map.yy",},
   ],
 }

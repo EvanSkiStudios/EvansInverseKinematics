@@ -10,7 +10,13 @@
     "name": "Default",
   },
   "defaultScriptType": 1,
-  "Folders": [],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Utility","folderPath":"folders/Utility.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"============","folderPath":"folders/============.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Demo","folderPath":"folders/Demo.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"ForwardKinematics","folderPath":"folders/ForwardKinematics.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"InverseKinematics","folderPath":"folders/InverseKinematics.yy",},
+  ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
@@ -19,7 +25,11 @@
   },
   "resources": [
     {"id":{"name":"InverseKinematics","path":"scripts/InverseKinematics/InverseKinematics.yy",},},
+    {"id":{"name":"obj_FKmatic_ctrl","path":"objects/obj_FKmatic_ctrl/obj_FKmatic_ctrl.yy",},},
+    {"id":{"name":"ForwardKinematics","path":"scripts/ForwardKinematics/ForwardKinematics.yy",},},
     {"id":{"name":"obj_IKmatic_ctrl","path":"objects/obj_IKmatic_ctrl/obj_IKmatic_ctrl.yy",},},
+    {"id":{"name":"samspade_map","path":"scripts/samspade_map/samspade_map.yy",},},
+    {"id":{"name":"gm48_sine_resource","path":"scripts/gm48_sine_resource/gm48_sine_resource.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

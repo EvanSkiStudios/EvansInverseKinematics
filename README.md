@@ -1,7 +1,10 @@
 # Kinematics Library  
 Adapted to GML from [The Coding Train](https://www.youtube.com/@TheCodingTrain)  
 [Licensed](https://github.com/EvanSkiStudios/EvansKinematicsLibrary?tab=MIT-1-ov-file#readme) under the [M.I.T License](https://opensource.org/license/mit/)
-  
+ 
+## Forward Kinematics
+[Coding Challenge #64.1: Forward Kinematics](https://www.youtube.com/watch?v=xXjRlEr7AGk)  
+
   
 ## Inverse Kinematics
 [Coding Challenge #64.2: Inverse Kinematics](https://www.youtube.com/watch?v=hbgDqyy8bIw)  
