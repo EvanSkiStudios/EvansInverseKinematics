@@ -19,7 +19,7 @@
   },
   "resources": [
     {"id":{"name":"InverseKinematics","path":"scripts/InverseKinematics/InverseKinematics.yy",},},
-    {"id":{"name":"obj_kinematic_ctrl","path":"objects/obj_kinematic_ctrl/obj_kinematic_ctrl.yy",},},
+    {"id":{"name":"obj_IKmatic_ctrl","path":"objects/obj_IKmatic_ctrl/obj_IKmatic_ctrl.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

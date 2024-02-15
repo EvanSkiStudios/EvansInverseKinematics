@@ -2,7 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"InverseKinematics","order":2,"path":"scripts/InverseKinematics/InverseKinematics.yy",},
-    {"name":"obj_kinematic_ctrl","order":3,"path":"objects/obj_kinematic_ctrl/obj_kinematic_ctrl.yy",},
+    {"name":"obj_IKmatic_ctrl","order":3,"path":"objects/obj_IKmatic_ctrl/obj_IKmatic_ctrl.yy",},
     {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
   ],
 }

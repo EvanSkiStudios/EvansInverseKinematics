@@ -1,4 +1,4 @@
-# KinematicsLibrary  
+# Kinematics Library  
 Adapted to GML from [The Coding Train](https://www.youtube.com/@TheCodingTrain)  
 [Licensed](https://github.com/EvanSkiStudios/EvansKinematicsLibrary?tab=MIT-1-ov-file#readme) under the [M.I.T License](https://opensource.org/license/mit/)
   
