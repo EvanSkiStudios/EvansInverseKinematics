@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Inverse Kinematics",
-    "path": "Inverse Kinematics.yyp",
+    "name": "HammerForge",
+    "path": "HammerForge.yyp",
   },
   "parentObjectId": null,
   "persistent": false,

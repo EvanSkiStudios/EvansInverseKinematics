@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Inverse Kinematics",
-    "path": "Inverse Kinematics.yyp",
+    "name": "HammerForge",
+    "path": "HammerForge.yyp",
   },
 }
