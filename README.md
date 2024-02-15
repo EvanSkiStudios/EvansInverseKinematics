@@ -4,6 +4,8 @@ Adapted to GML from [The Coding Train](https://www.youtube.com/@TheCodingTrain)
  
 ## Forward Kinematics
 [Coding Challenge #64.1: Forward Kinematics](https://www.youtube.com/watch?v=xXjRlEr7AGk)  
+  
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l2eHY4MmNwNngxenh4aXg5dmVrNm9reHhidWM1ZXJtdGh6bTN4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zJi8BfPe0r5sHeVrY/giphy.gif)
 
   
 ## Inverse Kinematics
